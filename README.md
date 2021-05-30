@@ -1,2 +1,2 @@
-# Aarushi_Jain_Portfolio
+# Aarushi Jain Portfolio
 This is Aarushi Jain's portflio.
