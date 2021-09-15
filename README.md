@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Aarushi Jain and I am a Computer Science student at the University of Waterloo.
 <!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find more about me on my <a href = "https://aarushijain29.github.io/portfolio/">portfolio website</a>!
+You can also find more about me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
